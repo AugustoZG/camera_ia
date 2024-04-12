@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078698309706",
+    "project_id": "api-para-camera-celular",
+    "storage_bucket": "api-para-camera-celular.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078698309706:android:1faabbcc3e7c7b0bccceb3",
+        "android_client_info": {
+          "package_name": "com.example.camera_ia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDJHNOpSyiob8Dc5of-9TcrfNQyKnvOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
